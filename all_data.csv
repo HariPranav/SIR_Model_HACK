@@ -1,0 +1,199 @@
+Ward Number,Ward Name,Zone,Assembly Constituency,Covid Zone,Containment Zone,area,male,female,population
+1,Kempegowda,Yelahanka,Yelahanka,Green,No,10.47,11490,10376,21866
+2,Chowdeshwari,Yelahanka,Yelahanka,Green,No,7.06,10402,9224,19626
+3,Atturu,Yelahanka,Yelahanka,Green,No,10.15,13129,10891,24020
+4,Yelahanka Satellite To,Yelahanka,Yelahanka,Green,No,4.9,13457,12325,25782
+5,Jakkuru,Yelahanka,Bytarayanapura,Green,No,23.96,10906,10058,20964
+6,Thanisandra,Yelahanka,Bytarayanapura,Green,No,9.97,10384,10018,20402
+7,Byatarayanapura,Yelahanka,Bytarayanapura,Green,No,9.6,16665,14735,31400
+8,Kodigehalli,Yelahanka,Bytarayanapura,Green,No,3.81,11525,10110,21635
+9,Vidyaranyapura,Yelahanka,Bytarayanapura,Green,No,9.79,12268,10868,23136
+10,Dodda Bommasandra,Yelahanka,Bytarayanapura,Green,No,4.2,11327,10313,21640
+11,Kuvempu Nagar,Yelahanka,Bytarayanapura,Green,No,7.59,13489,11806,25295
+12,Shettihalli,Dasarahalli,Dasarahalli,Green,No,8.97,15023,13286,28309
+13,Mallasandra,Dasarahalli,Dasarahalli,Green,No,1.31,14066,12187,26253
+14,Bagalakunte,Dasarahalli,Dasarahalli,Green,No,4.43,15159,13147,28306
+15,T Dasarahalli,Dasarahalli,Dasarahalli,Green,No,0.88,14363,11687,26050
+16,Jalahalli,RR Nagar,Rajarajeswarinagar,Green,No,5.16,15087,13950,29037
+17,Jp Park,RR Nagar,Rajarajeswarinagar,Green,No,2.05,18629,16545,35174
+18,Radhakrishna Temple,East,Hebbal,Green,Yes,1.95,13862,12349,26211
+19,Sanjay Nagar,East,Hebbal,Yellow,No,1.54,12600,11578,24178
+20,Ganga Nagar,East,Hebbal,Green,No,2.26,13688,12568,26256
+21,Hebbal,East,Hebbal,Green,No,1.23,12560,11601,24161
+22,Vishwanatha Nagenah,RR Nagar,Hebbal,Green,No,1.47,13594,12103,25697
+23,Nagavara,East,Sarvagnanagar,Green,No,2.06,18216,17048,35264
+24,Hbr Layout,East,Sarvagnanagar,Green,No,4.64,16506,15650,32156
+25,Horamavu,Mahadevapura,K.R.Puram,Yellow,Yes,17.32,14696,13471,28167
+26,Ramamurthy Nagar,Mahadevapura,K.R.Puram,Green,No,7.87,11330,10669,21999
+27,Banasavadi,East,Sarvagnanagar,Green,No,3.46,16634,15364,31998
+28,Kammanahalli,East,Sarvagnanagar,Green,No,1.03,17925,16894,34819
+29,Kacharkanahalli,East,Sarvagnanagar,Green,No,1.72,15037,13981,29018
+30,Kadugondanahalli,East,Sarvagnanagar,Green,No,0.71,17902,16940,34842
+31,Kushal Nagar,East,Pulakeshinagar,Yellow,No,0.65,17506,16540,34046
+32,Kaval Bairasandra,West,Pulakeshinagar,Green,No,1.59,13914,12636,26550
+33,Manorayanapalya,East,Hebbal,Green,No,0.81,18200,16577,34777
+34,Gangenahalli,East,Hebbal,Green,No,1.09,13128,11826,24954
+35,Aramane Nagar,West,Malleshwaram,Green,No,7.47,16221,14176,30397
+36,Mattikere,West,Malleshwaram,Green,No,0.91,19092,16790,35882
+37,Yeshwanthpura,RR Nagar,Rajarajeswarinagar,Yellow,Yes,0.78,18861,17111,35972
+38,Hmt,RR Nagar,Rajarajeswarinagar,Green,No,5.21,16281,13483,29764
+39,Chokkasandra,Dasarahalli,Dasarahalli,Green,No,4.0,16821,13296,30117
+40,Dodda Bidarakallu,RR Nagar,Yeshwanthpur,Green,No,12.7,10204,9145,19349
+41,Peenya Industrial Area,Dasarahalli,Dasarahalli,Green,No,5.59,15255,12212,27467
+42,Lakshmi Devi Nagar,RR Nagar,Rajarajeswarinagar,Green,No,1.33,13425,12153,25578
+43,Nandini Layout,West,Mahalakshmi Layout,Green,No,1.41,18113,16205,34318
+44,Marappana Palya,West,Mahalakshmi Layout,Green,No,2.05,18108,15894,34002
+45,Malleswaram,West,Malleshwaram,Green,No,1.81,18994,17327,36321
+46,Jayachamrajendra Na,East,Hebbal,Green,No,0.89,16353,14390,30743
+47,Devara Jeevanahalli,East,Pulakeshinagar,Green,No,1.37,17296,16187,33483
+48,Muneshwara Nagar,East,Pulakeshinagar,Green,No,0.48,15557,14951,30508
+49,Lingarajapura,Yelahanka,Sarvagnanagar,Green,No,0.89,16267,16108,32375
+50,Benniganahalli,East,C.V.Ramannagar,Green,No,4.92,17006,14979,31985
+51,Vijnanapura,South,K.R.Puram,Green,No,2.05,18118,16969,35087
+52,K R Pura,Mahadevapura,K.R.Puram,Green,No,5.12,13912,12573,26485
+53,Basavanapura,Mahadevapura,K.R.Puram,Green,No,6.28,11494,10518,22012
+54,Hudi,Mahadevapura,Mahadevpura,Green,No,15.3,11076,9624,20700
+55,Devasandra,Mahadevapura,K.R.Puram,Green,No,3.52,11604,10453,22057
+56,A Narayanapura,Mahadevapura,K.R.Puram,Green,No,2.15,15406,14014,29420
+57,Cv Raman Nagar,East,C.V.Ramannagar,Green,No,3.58,15822,13938,29760
+58,New Tippasandra,East,C.V.Ramannagar,Green,No,3.34,18212,16365,34577
+59,Maruthi Seva Nagar,East,Sarvagnanagar,Yellow,Yes,2.37,17862,17949,35811
+60,Sagayarapura,East,Pulakeshinagar,Green,No,0.77,17525,17349,34874
+61,S K Garden,East,Pulakeshinagar,Green,No,1.31,17387,16552,33939
+62,Ramaswamy Palya,East,Shivajinagar,Yellow,Yes,0.83,16855,15545,32400
+63,Jayamahal,East,Shivajinagar,Green,No,1.44,12014,12051,24065
+64,Rajamahal Guttahalli,West,Malleshwaram,Green,No,0.73,17243,16721,33964
+65,Kadu Malleshwara,West,Malleshwaram,Green,No,1.36,16970,17083,34053
+66,Subramanya Nagar,West,Malleshwaram,Green,No,0.94,17876,17007,34883
+67,Nagapura,West,Mahalakshmi Layout,Green,No,1.79,18268,17285,35553
+68,Mahalakshmipura,West,Mahalakshmi Layout,Green,No,0.95,19202,16774,35976
+69,Laggere,RR Nagar,Rajarajeswarinagar,Green,No,1.58,13425,11945,25370
+70,Rajagopal Nagara,Dasarahalli,Dasarahalli,Green,No,2.18,15691,12913,28604
+71,Hegganahalli,Dasarahalli,Dasarahalli,Green,No,1.96,16766,14123,30889
+72,Herohalli,South,Yeshwanthpur,Green,No,7.7,10421,9247,19668
+73,Kottegepalya,RR Nagar,Rajarajeswarinagar,Green,No,5.84,15812,13288,29100
+74,Shakthi Ganapathi,West,Mahalakshmi Layout,Green,No,0.7,17953,16577,34530
+75,Shankar Mutt,West,Mahalakshmi Layout,Green,No,1.08,18802,16877,35679
+76,Gayithri Nagar,West,Malleshwaram,Green,No,0.64,18360,17029,35389
+77,Dattatreya Temple,West,Gandhinagar,Green,No,0.71,17640,16596,34236
+78,Pulikeshi Nagar,East,Pulakeshinagar,Green,Yes,1.72,13858,14291,28149
+79,Sarvagna Nagar,East,C.V.Ramannagar,Green,No,3.66,17879,17064,34943
+80,Hoysala Nagar,East,C.V.Ramannagar,Green,No,2.05,18041,17849,35890
+81,Vijnana Nagar,Mahadevapura,K.R.Puram,Green,No,5.73,13218,11539,24757
+82,Garudachar Palya,Mahadevapura,Mahadevpura,Green,No,6.8,11371,9549,20920
+83,Kadugodi,Mahadevapura,Mahadevpura,Green,No,11.88,12056,10149,22205
+84,Hagadur,Mahadevapura,Mahadevpura,Green,Yes,12.68,13523,12392,25915
+85,Dodda Nekkundi,South,Mahadevpura,Green,No,12.12,11790,10226,22016
+86,Marattahalli,Mahadevapura,Mahadevpura,Green,No,3.1,11967,10522,22489
+87,Hal Airport,Mahadevapura,K.R.Puram,Green,No,6.8,17594,15472,33066
+88,Jeevanbhima Nagar,East,C.V.Ramannagar,Green,No,1.89,19021,17131,36152
+89,Jogapalya,East,Shanthinagar,Green,No,0.91,17710,16901,34611
+90,Halsoor,East,Shivajinagar,Green,No,1.68,20526,15365,35891
+91,Bharathi Nagar,East,Shivajinagar,Green,No,0.78,16472,16160,32632
+92,Shivaji Nagar,East,Shivajinagar,Green,No,0.43,18456,17284,35740
+93,Vasanth Nagar,East,Shivajinagar,Orange,Yes,3.12,13250,12382,25632
+94,Gandhinagar,West,West,Green,No,1.93,19566,15744,35310
+95,Subhash Nagar,West,Gandhinagar,Green,No,1.32,18163,17264,35427
+96,Okalipura,West,Gandhinagar,Green,No,0.83,18609,17266,35875
+97,Dayananda Nagar,West,Rajajinagar,Green,No,0.45,17767,16828,34595
+98,Prakash Nagar,West,Rajajinagar,Green,No,0.56,18641,16824,35465
+99,Rajajinagar,West,Rajajinagar,Green,No,0.86,17221,16010,33231
+100,Basaveshwara Nagar,West,Rajajinagar,Green,No,0.84,14204,12798,27002
+101,Kamakshipalya,West,Rajajinagar,Green,No,0.91,13638,12104,25742
+102,Vrisabhavathi Nagar,West,Mahalakshmi Layout,Green,No,0.99,18654,15685,34339
+103,Kaveripura,West,Govindarjnagara,Green,No,1.64,19274,15982,35256
+104,Govindarajanagara,West,Govindarjnagara,Green,No,0.77,13565,12208,25773
+105,Agrahara Dasarahalli,West,West,Green,No,0.8,14141,12716,26857
+106,Dr Raj Kumar,West,Govindarjnagara,Green,No,0.99,13012,11740,24752
+107,Shivanagara,West,Rajajinagar,Green,No,0.78,18940,17039,35979
+108,Srirammandir,West,Rajajinagar,Green,No,1.06,17348,16265,33613
+109,Chickpete,West,Gandhinagar,Green,No,0.71,17670,16028,33698
+110,Sampangiram Nagar,East,Shivajinagar,Green,No,4.45,16973,16147,33120
+111,Shantala Nagar,East,Shanthinagar,Green,No,3.99,15570,14655,30225
+112,Domlur,East,Shanthinagar,Green,No,1.75,17827,16876,34703
+113,Konena Agrahara,East,C.V.Ramannagar,Green,No,2.12,15479,13865,29344
+114,Agara,East,Shanthinagar,Green,No,11.26,20108,15524,35632
+115,Vannarpete,East,Shanthinagar,Green,No,0.74,17991,17541,35532
+116,Nilasandra,East,Shanthinagar,Green,No,0.54,18953,17326,36279
+117,Shanthi Nagar,East,Shanthinagar,Green,No,2.7,18672,17754,36426
+118,Sudham Nagar,West,Chikpet,Yellow,Yes,1.01,16552,15650,32202
+119,Dharmaraya Swamy te,South,Chamajpet,Yellow,No,1.1,18193,15006,33199
+120,Cottonpete,West,Gandhinagar,Green,No,0.76,19048,17534,36582
+121,Binnipete,West,Gandhinagar,Green,No,0.77,17447,16499,33946
+122,Kempapura Agrahara,South,Vijayanagar,Green,No,0.36,17355,16381,33736
+123,Vijayanagara,South,Vijayanagar,Green,No,0.73,19009,17068,36077
+124,Hosahalli,South,Vijayanagar,Green,Yes,0.89,16662,15441,32103
+125,Marenahalli,West,Govindarjnagara,Green,No,0.69,10430,9638,20068
+126,Maruthi Mandira,West,Govindarjnagara,Green,No,0.79,11421,10363,21784
+127,Mudalapalya,South,Govindarjnagara,Green,No,0.98,12816,11671,24487
+128,Nagarabhavi,West,Govindarjnagara,Green,No,1.6,10408,9861,20269
+129,Jnana Bharathi,RR Nagar,Rajarajeswarinagar,Yellow,No,12.19,13758,12131,25889
+130,Ullalu,RR Nagar,Yeshwanthpur,Green,No,8.92,10468,9864,20332
+131,Nayandahalli,West,Govindarjnagara,Green,No,2.07,11987,10891,22878
+132,Attiguppe,South,Vijayanagar,Green,No,1.39,13989,12817,26806
+133,Hampinagara,South,Vijayanagar,Orange,Yes,1.11,15716,14639,30355
+134,Bapuji Nagar,South,Vijayanagar,Orange,Yes,0.68,18996,17238,36234
+135,Padarayanapura,West,Chamajpet,Red,Yes,0.31,18371,16842,35213
+136,Jagajivanram Nagar,West,Chamajpet,Orange,Yes,0.63,17570,16188,33758
+137,Rayapura,South,Chamajpet,Green,No,0.45,16928,16021,32949
+138,Balavadhinagar,West,Chamrajpet,Green,Yes,0.4,13181,12138,25319
+139,K R Market,West,Chamajpet,Orange,Yes,0.81,14982,13532,28514
+140,Chamajpet,South,Chamajpet,Orange,No,1.03,17193,16205,33398
+141,Azad Nagar,West,Chamajpet,Green,No,0.67,18584,17157,35741
+142,Sunkenahalli,South,Chikpet,Green,No,1.49,18645,17513,36158
+143,Vishveshwara Puram,South,Chikpet,Green,No,2.47,18362,17731,36093
+144,Siddapura,South,Chikpet,Green,No,0.66,16731,15463,32194
+145,Hombegowda Nagar,South,Chikpet,Yellow,No,1.41,18693,17762,36455
+146,Lakkasandra,South,B.T.M Layout,Green,No,1.29,14909,13394,28303
+147,Adugodi,South,B.T.M Layout,Green,No,1.6,15676,14269,29945
+148,Ejipura,South,B.T.M Layout,Green,No,1.61,15316,13789,29105
+149,Varthuru,Mahadevapura,Mahadevpura,Green,No,26.98,13033,12034,25067
+150,Bellanduru,Mahadevapura,Mahadevpura,Green,No,26.37,10818,9708,20526
+151,Koramangala,South,B.T.M Layout,Green,No,3.71,18434,16925,35359
+152,Suddagunte Palya,South,B.T.M Layout,Green,No,1.74,19341,16569,35910
+153,Jayanagara,South,Chikpet,Green,No,2.5,18173,17790,35963
+154,Basavanagudi,South,Basavanagudi,Green,No,1.17,18396,17619,36015
+155,Hanumanth Nagar,South,Basavanagudi,Green,No,0.99,18137,16928,35065
+156,Srinagara,South,Basavanagudi,Green,No,0.8,18793,17252,36045
+157,Gali Anjaneya Temple,South,Vijayanagar,Green,No,1.14,14466,12798,27264
+158,Deepanjali Nagara,South,Vijayanagar,Orange,Yes,2.09,16655,14269,30924
+159,Kengeri,RR Nagar,Yeshwanthpur,Green,No,4.77,12879,11991,24870
+160,Rajarajeshwari Nagar,RR Nagar,Rajarajeswarinagar,Yellow,Yes,11.35,12092,11190,23282
+161,Hosakerehalli,South,Padmanabhanagar,Green,No,1.34,11041,10144,21185
+162,Girinagar,South,Padmanabhanagar,Green,No,1.77,18208,16704,34912
+163,Katriguppe,RR Nagar,Basavanagudi,Green,No,1.11,18769,16967,35736
+164,Vidyapeeta,South,Basavanagudi,Green,No,34535.0,18083,16452,34535
+165,Ganesh Mandiara,South,Padmanabhanagar,Green,No,1.63,11988,11113,23101
+166,Karisandra,South,Padmanabhanagar,Green,Yes,1.1,15445,14761,30206
+167,Yediyur,South,Padmanabhanagar,Green,No,1.23,17857,16734,34591
+168,Pattabhiram Nagar,South,Jayanagar,Green,No,1.75,15751,15238,30989
+169,Byrasandra,South,Jayanagar,Green,Yes,0.87,15760,14878,30638
+170,Jayanagar East,South,Jayanagar,Yellow,No,1.01,15964,14882,30846
+171,Gurappanapalya,South,Jayanagar,Yellow,Yes,0.68,18839,16989,35828
+172,Madivala,South,B.T.M Layout,Orange,No,1.16,19121,16034,35155
+173,Jakkasandra,South,B.T.M Layout,Green,No,1.52,13045,11043,24088
+174,Hsr Layout,Bommanahalli,Bommanahalli,Green,No,6.98,13215,11534,24749
+175,Bommanahalli,Bommanahalli,Bommanahalli,Green,No,1.85,13065,11242,24307
+176,B T M Layout,South,B.T.M Layout,Green,No,2.13,18502,15934,34436
+177,J P Nagar,South,Jayanagar,Orange,Yes,1.79,14747,13761,28508
+178,Sarakki,South,Jayanagar,Green,No,1.34,13870,12837,26707
+179,Shakambari Nagar,South,Jayanagar,Yellow,Yes,1.85,11733,11506,23239
+180,Banashankari Temple,South,Padmanabhanagar,Green,No,0.68,17451,16571,34022
+181,Kumaraswamy Layout,South,Padmanabhanagar,Green,No,1.87,18649,16735,35384
+182,Padmanabha Nagar,South,Padmanabhanagar,Green,No,1.68,13131,12323,25454
+183,Chikkalsandra,South,Padmanabhanagar,Green,No,1.09,12995,11682,24677
+184,Uttarahalli,Bommanahalli,Bangalore South,Green,No,8.99,11461,10384,21845
+185,Yelchenahalli,Bommanahalli,Bangalore South,Green,No,1.58,14896,13104,28000
+186,Jaraganahalli,Bommanahalli,Bommanahalli,Green,No,1.28,12519,10780,23299
+187,Puttenahalli,Bommanahalli,Bommanahalli,Green,No,2.87,11094,9450,20544
+188,Bilekhali,Bommanahalli,Bommanahalli,Green,No,4.24,12050,10460,22510
+189,Hongasandra,Bommanahalli,Bommanahalli,Red,Yes,2.16,12307,10751,23058
+190,Mangammanapalya,Bommanahalli,Bommanahalli,Green,No,3.52,14625,12766,27391
+191,Singasandra,Bommanahalli,Bangalore South,Green,No,9.42,11669,9741,21410
+192,Begur,Bommanahalli,Bangalore South,Green,No,18.8,9899,9388,19287
+193,Arakere,Bommanahalli,Bommanahalli,Green,No,6.45,13429,11574,25003
+194,Gottigere,Bommanahalli,Bangalore South,Green,No,6.49,11402,10124,21526
+195,Konanakunte,Bommanahalli,Bangalore South,Green,No,3.42,10662,9519,20181
+196,Anjanapura,Bommanahalli,Bangalore South,Green,No,11.92,10787,10293,21080
+197,Vasanthpura,Bommanahalli,Bangalore South,Green,No,5.34,13057,11465,24522
+198,Hemmigepura,RR Nagar,Yeshwanthpur,Green,No,28.59,12926,11385,24311
